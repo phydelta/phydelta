@@ -28,8 +28,4 @@ Phydelta is the personal brand of Jose Luis Martín, a freelance senior software
 
 ## Contact
 
-[phydelta.net](https://phydelta.net) · [LinkedIn](https://www.linkedin.com/in/jlmp/) · [X](https://x.com/phydelta)
-
----
-
-phydelta · [phydelta.net](https://phydelta.net) · [github.com/phydelta](https://github.com/phydelta)
+[cv.phydelta.net](https://cv.phydelta.net) · [LinkedIn](https://www.linkedin.com/in/jlmp/) · [X](https://x.com/phydelta)
